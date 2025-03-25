@@ -18,6 +18,7 @@ function RootStack() {
 }
 
 export default function App() {
+
   return (
     <NavigationContainer>
       <RootStack />
